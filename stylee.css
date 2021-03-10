@@ -1,0 +1,35 @@
+h1
+{
+    color: red;
+}
+h5
+{
+    color: red;
+}
+a1
+{
+color: red;
+position: relative;
+left: 50px;
+}
+a2
+{
+    color: violet;
+
+    position: relative;
+    left: 100px;
+}
+a3
+{
+    color: navy;
+    position: relative;
+    left: 150px;
+}
+h2
+{
+color: red;
+}
+td
+{
+    color:blue;
+}
